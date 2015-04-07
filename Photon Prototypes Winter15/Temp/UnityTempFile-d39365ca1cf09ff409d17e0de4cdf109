@@ -1,0 +1,201 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:D:\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/Managed/UnityEngine.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:Assets/Plugins/Photon3Unity3D.dll
+-define:UNITY_5_0_0
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:DEVELOPMENT_BUILD
+-define:ENABLE_PROFILER
+Assets/DebugClass.cs
+Assets/Effect.cs
+"Assets/Grid Test/AdjacentGridMoves.cs"
+"Assets/Grid Test/Grid Framework/Debug/GridDebugger.cs"
+"Assets/Grid Test/Grid Framework/Debug/HexConversionDebugger.cs"
+"Assets/Grid Test/Grid Framework/Debug/PolarConversionDebugger.cs"
+"Assets/Grid Test/Grid Framework/Examples/Level Design + Text Parsing/Scripts/LevelTextParser.cs"
+"Assets/Grid Test/Grid Framework/Examples/Lights Off/Scripts/ConstructPolarBlocks.cs"
+"Assets/Grid Test/Grid Framework/Examples/Lights Off/Scripts/Extension Methods/GFGridLightsExampleExtensions.cs"
+"Assets/Grid Test/Grid Framework/Examples/Lights Off/Scripts/LightsBehaviour.cs"
+"Assets/Grid Test/Grid Framework/Examples/Lights Off/Scripts/SwitchManager.cs"
+"Assets/Grid Test/Grid Framework/Examples/Movement with Walls/Scripts/BlockSquare.cs"
+"Assets/Grid Test/Grid Framework/Examples/Movement with Walls/Scripts/ForbiddenTilesExample.cs"
+"Assets/Grid Test/Grid Framework/Examples/Movement with Walls/Scripts/RoamGridWithWalls.cs"
+"Assets/Grid Test/Grid Framework/Examples/Movement with Walls/Scripts/SetupForbiddenTiles.cs"
+"Assets/Grid Test/Grid Framework/Examples/Movement/Scripts/RoamGrid.cs"
+"Assets/Grid Test/Grid Framework/Examples/Rotary Dial/RotaryDial.cs"
+"Assets/Grid Test/Grid Framework/Examples/Rotary Dial/RotaryDialSprite.cs"
+"Assets/Grid Test/Grid Framework/Examples/Runtime Snapping/Scripts/DiscMeshGenerator.cs"
+"Assets/Grid Test/Grid Framework/Examples/Runtime Snapping/Scripts/ExampleDescription.cs"
+"Assets/Grid Test/Grid Framework/Examples/Runtime Snapping/Scripts/IntersectionTrigger.cs"
+"Assets/Grid Test/Grid Framework/Examples/Runtime Snapping/Scripts/PointDebug.cs"
+"Assets/Grid Test/Grid Framework/Examples/Runtime Snapping/Scripts/SnappingUnits.cs"
+"Assets/Grid Test/Grid Framework/Examples/Seeming Endless Grid/InfinityCamera.cs"
+"Assets/Grid Test/Grid Framework/Examples/Sliding Puzzle/Scripts/DragBlock.cs"
+"Assets/Grid Test/Grid Framework/Examples/Sliding Puzzle/Scripts/SlidingPuzzleExample.cs"
+"Assets/Grid Test/Grid Framework/Examples/Sliding Puzzle/Scripts/SlidingPuzzleGrid.cs"
+"Assets/Grid Test/Grid Framework/Examples/Snake/Snake.cs"
+"Assets/Grid Test/Grid Framework/Examples/Terrain Mesh Generation/TerrainMeshBuilder.cs"
+Assets/InitiateConnections.cs
+"Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Scripts/Demo2DJumpAndRun.cs"
+"Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Scripts/JumpAndRunMovement.cs"
+"Assets/Photon Unity Networking/Demos/DemoBoxes/DemoBoxesGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoBoxes/OnAwakePhysicsSettings.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/ClickAndDrag.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/DemoOwnershipGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/InstantiateCube.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/MaterialPerOwner.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/OnClickDisableObj.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/OnClickRequestOwnership.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/OnClickRightDestroy.cs"
+"Assets/Photon Unity Networking/Demos/DemoChangeOwner/OnJoinInstantiate.cs"
+"Assets/Photon Unity Networking/Demos/DemoChat/ChatGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoChat/NamePickGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoFriendsAndCustomAuth/GUICustomAuth.cs"
+"Assets/Photon Unity Networking/Demos/DemoFriendsAndCustomAuth/GUIFriendFinding.cs"
+"Assets/Photon Unity Networking/Demos/DemoFriendsAndCustomAuth/GUIFriendsInRoom.cs"
+"Assets/Photon Unity Networking/Demos/DemoFriendsAndCustomAuth/OnClickCallMethod.cs"
+"Assets/Photon Unity Networking/Demos/DemoHub/HubGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoHub/MoveCam.cs"
+"Assets/Photon Unity Networking/Demos/DemoHub/ToHubButton.cs"
+"Assets/Photon Unity Networking/Demos/DemoMecanim/Scripts/DemoMecanimGUI.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/MessageOverlay.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/OnCollideSwitchTeam.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/OnPickedUpScript.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupCamera.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupController.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupDemoGui.cs"
+"Assets/Photon Unity Networking/Demos/DemoPickup/Scripts/PickupTriggerForward.cs"
+"Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/DemoRPGMovement.cs"
+"Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/RPGCamera.cs"
+"Assets/Photon Unity Networking/Demos/DemoRPGMovement/Scripts/RPGMovement.cs"
+"Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeExtra.cs"
+"Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeInter.cs"
+"Assets/Photon Unity Networking/Demos/DemoSynchronization/CubeLerp.cs"
+"Assets/Photon Unity Networking/Demos/DemoSynchronization/IELdemo.cs"
+"Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonCamera.cs"
+"Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonController.cs"
+"Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/Game/Player/ThirdPersonNetwork.cs"
+"Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerInGame.cs"
+"Assets/Photon Unity Networking/Demos/DemoWorker/Scripts/WorkerMenu.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/AudioRpc.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/ClickDetector.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/GameLogic.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/Monstergame/Resources/Scripts/myThirdPersonController.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/NetworkCharacter.cs"
+"Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/RandomMatchmaker.cs"
+"Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/IdleRunJump.cs"
+"Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/PlayerDiamond.cs"
+"Assets/Photon Unity Networking/Demos/Shared Assets/Scripts/PlayerVariables.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/CustomTypes.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Enums.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/FriendInfo.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/GizmoType.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonClasses.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonLagSimulationGui.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonPlayer.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStatsGui.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonStreamQueue.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/PingCloudRegions.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/RPC.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Room.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/RoomInfo.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/RpcIndexComponent.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/ServerSettings.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/SocketUdp.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonAnimatorView.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbody2DView.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonRigidbodyView.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformView.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionControl.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewPositionModel.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationControl.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewRotationModel.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleControl.cs"
+"Assets/Photon Unity Networking/Plugins/PhotonNetwork/Views/PhotonTransformViewScaleModel.cs"
+"Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs"
+"Assets/Photon Unity Networking/UtilityScripts/HighlightOwnedGameObj.cs"
+"Assets/Photon Unity Networking/UtilityScripts/InRoomChat.cs"
+"Assets/Photon Unity Networking/UtilityScripts/InRoomRoundTimer.cs"
+"Assets/Photon Unity Networking/UtilityScripts/InputToEvent.cs"
+"Assets/Photon Unity Networking/UtilityScripts/ManualPhotonViewAllocator.cs"
+"Assets/Photon Unity Networking/UtilityScripts/MoveByKeys.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnAwakeUsePhotonView.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnClickDestroy.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnClickInstantiate.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnClickLoadSomething.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnJoinedInstantiate.cs"
+"Assets/Photon Unity Networking/UtilityScripts/OnStartDelete.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PickupItem.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PickupItemSimple.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PickupItemSyncer.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PointedAtGameObjectInfo.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PunPlayerScores.cs"
+"Assets/Photon Unity Networking/UtilityScripts/PunTeams.cs"
+"Assets/Photon Unity Networking/UtilityScripts/QuitOnEscapeOrBack.cs"
+"Assets/Photon Unity Networking/UtilityScripts/ServerTime.cs"
+"Assets/Photon Unity Networking/UtilityScripts/ShowInfoOfPlayer.cs"
+"Assets/Photon Unity Networking/UtilityScripts/ShowStatusWhenConnecting.cs"
+"Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs"
+"Assets/Photon Unity Networking/UtilityScripts/SupportLogger.cs"
+"Assets/Photon Unity Networking/UtilityScripts/TimeKeeper.cs"
+Assets/PlayerCommunication.cs
+Assets/Scripts/Card.cs
+Assets/Scripts/GridMatrix.cs
+Assets/Scripts/HandOfCards.cs
+Assets/Scripts/Player.cs
+Assets/Scripts/PlayerTrigger.cs
+Assets/Scripts/updateOnPhoton.cs
+-r:D:\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
+-r:D:\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll

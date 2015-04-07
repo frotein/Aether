@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Grid Test/AdjacentGridMoves.cs">
+    <Files>
+      <File FileName="Assets/Grid Framework/Examples/Lights Off/Scripts/LightsBehaviour.cs" Line="32" Column="2" />
+      <File FileName="Assets/Photon Unity Networking/UtilityScripts/Prototype1_ConnectAndJoin.cs" Line="72" Column="43" />
+      <File FileName="Assets/Grid Framework/Examples/Lights Off/Scripts/Extension Methods/GFGridLightsExampleExtensions.cs" Line="46" Column="3" />
+      <File FileName="Assets/Grid Test/AdjacentGridMoves.cs" Line="37" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
